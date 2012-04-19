@@ -1,0 +1,16 @@
+Donderdag 26-4-2012 14:00 overleg met opdrachtgever weer in D3.053
+
+Wat moeten we gedaan hebben:
+   - Voor de volgende apps: Bruggen + aanlegplaatsen app, trailerhellingen app en leeuwarden vaarroutes app:
+        - Lijst met functionaliteit van de app
+        - Usecases
+        - Mock-ups (balsamiq)
+        - Randvoorwaarden opzetten
+   - Excel naar appconverter
+        - idee voor bedenken
+   - Uitzoeken naar kaart zonder internet 
+   - PhoneGap
+        - Geen mogelijke kosten?
+
+
+App moet 4 juni af, daarna nog 2 weken om te testen
