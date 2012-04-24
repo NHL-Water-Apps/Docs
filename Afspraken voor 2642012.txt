@@ -9,8 +9,8 @@ Wat moeten we gedaan hebben:
    - Excel naar appconverter
         - idee voor bedenken
    - Uitzoeken naar kaart zonder internet 
-   - PhoneGap
-        - Geen mogelijke kosten?
+   x PhoneGap
+        - Geen mogelijke kosten? (Kosteloos)
 
 
 App moet 4 juni af, daarna nog 2 weken om te testen
