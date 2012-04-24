@@ -1,0 +1,82 @@
+<mockup version="1.0" skin="sketch" measuredW="1143" measuredH="515" mockupW="1133" mockupH="514">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="31" y="37" w="251" h="478" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="306" y="25" w="252" h="479" measuredW="282" measuredH="510" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhone" x="839" y="21" w="304" h="483" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="564" y="21" w="276" h="483" measuredW="282" measuredH="510" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="48" y="401" w="196" h="32" measuredW="207" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kaart%2C%20Hellingen%2C%20Opties</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Map" x="54" y="136" w="200" h="267" measuredW="252" measuredH="222" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="10" y="1" w="335" h="-1" measuredW="322" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Huidige%20positie%20aanlegplaatsen</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SearchBox" x="59" y="136" w="125" h="-1" measuredW="120" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Zoek</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ButtonBar" x="327" y="389" w="196" h="32" measuredW="207" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Kaart%2C%20Hellingen%2C%20Opties</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::List" x="340" y="191" w="183" h="59" measuredW="100" measuredH="126" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aanlegplaats%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::List" x="340" y="254" w="183" h="59" measuredW="100" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aanlegplaats%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::List" x="340" y="321" w="183" h="59" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aanlegplaats%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::List" x="604" y="153" w="196" h="160" measuredW="100" measuredH="149" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hellingdetials%20-%20%20abc%0A%20%0AInfo%0AInfo%0AInfo%0AInfo%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::PointyButton" x="738" y="122" w="58" h="-1" measuredW="56" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Terug</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::List" x="890" y="147" w="201" h="177" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Instellingen%3A%0A%20%0ABoothoogte%20%3A%20%092%2C5%20meter%0ABootbreedte%20%3A%204%20meter%0ADieptegang%20%3A%20%091%20meter</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ButtonBar" x="887" y="391" w="196" h="32" measuredW="207" measuredH="29" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Kaart%2C%20Hellingen%2C%20Opties</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::RoundButton" x="205" y="298" w="11" h="15" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::SubTitle" x="163" y="283" w="-1" h="-1" measuredW="73" measuredH="16" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Trailerhelling%20abc</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::ComboBox" x="370" y="147" w="120" h="-1" measuredW="61" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
