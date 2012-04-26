@@ -28,17 +28,17 @@
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::List" x="340" y="213" w="183" h="59" measuredW="100" measuredH="126" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Aanlegplaats%202</text>
+        <text>Helling%201</text>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::List" x="340" y="276" w="183" h="59" measuredW="100" measuredH="126" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Aanlegplaats%203</text>
+        <text>Helling%202</text>
       </controlProperties>
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::List" x="340" y="343" w="183" h="59" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Aanlegplaats%204</text>
+        <text>Helling%203</text>
       </controlProperties>
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::List" x="604" y="133" w="196" h="269" measuredW="100" measuredH="149" zOrder="12" locked="false" isInGroup="-1">

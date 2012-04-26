@@ -49,7 +49,7 @@
       </controlProperties>
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="741" y="125" w="223" h="45" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="756" y="137" w="-1" h="-1" measuredW="144" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="778" y="137" w="-1" h="-1" measuredW="144" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Brug-/aanlegplaatsnaam</text>
       </controlProperties>
@@ -181,11 +181,6 @@
     <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="1141" y="433" w="-1" h="-1" measuredW="113" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Over%20deze%20App</text>
-      </controlProperties>
-    </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::PointyButton" x="899" y="133" w="58" h="-1" measuredW="56" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Terug</text>
       </controlProperties>
     </control>
   </controls>
